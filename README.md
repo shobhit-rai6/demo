@@ -1,4 +1,4 @@
 # demo
 
 this is a demo repository
-gergS
+now addding it to the repository through the vs terminal 
